@@ -20,7 +20,7 @@ I also enjoy wireframing, Ui, Ux, and design in general.
 
 - ⚡ Fun fact **I love life on the edge**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwa-seun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oluwa-seun&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
