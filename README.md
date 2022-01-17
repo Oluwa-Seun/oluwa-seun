@@ -10,7 +10,7 @@ I also enjoy wireframing, Ui, Ux, and design in general.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwa-seun&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on **Gods-i**
+- 🔭 I’m currently working on my own company  **Gods-i**
 
 - 🌱 I’m currently learning **React, python**
 
@@ -19,6 +19,8 @@ I also enjoy wireframing, Ui, Ux, and design in general.
 - 📫 How to reach me **oluwaseunolubiyione@gmail.com**
 
 - ⚡ Fun fact **I love life on the edge**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
