@@ -5,8 +5,7 @@
 
 I'm Oluwaseun from nigeria, with a good knowledge of Design and Development.
 I enjoy learning languages and framework like Python, typescript, React, Swift and flutter, as well as work in linux.
-I also enjoy wireframing, Ui, Ux, and design in general, feel free to go through my projects, drop a star if you like like.
-Thank You!
+I also enjoy wireframing, Ui, Ux, and design in general, feel free to go through my projects, drop a star if you like like.Thank You!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwa-seun&show_icons=true&theme=merko)
 
 - 🔭 I’m currently working on my own company  **Gods-i**
