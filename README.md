@@ -8,7 +8,7 @@ I also enjoy wireframing, Ui, Ux, and design in general.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwa-seun&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwa-seun&show_icons=true&theme=merko)
 
 - 🔭 I’m currently working on **Gods-i**
 
