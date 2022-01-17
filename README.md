@@ -1,4 +1,4 @@
-### Hi there 👋
+ ## <h1 align="center">"Hello world" 👋,</h1>
 
 
 ## Welcome to my Space-jam!
@@ -8,9 +8,6 @@ I also enjoy wireframing, Ui, Ux, and design in general.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwa-seun)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1 align="center">"Hello world" 👋, I'm oluwa-seun</h1>
-<h3 align="center">A passionate software developer from Nigeria</h3>
 
 - 🔭 I’m currently working on **Gods-i**
 
