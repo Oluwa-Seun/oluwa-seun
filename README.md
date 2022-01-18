@@ -1,9 +1,9 @@
  ## "Hello world" 👋,
 
 
-## Welcome to my Space-jam!
+ Welcome to my Space-jam!
 
-I'm Oluwaseun from nigeria, with a good knowledge of Design and Development.
+I'm Oluwaseun a FrontEnd developer from nigeria, with a good knowledge of Design and Development.
 I enjoy learning languages and framework like Python, typescript, React, Swift and flutter, as well as work in linux.
 I also enjoy wireframing, Ui, Ux, and design in general, feel free to go through my projects, drop a star if you like like.Thank You!
 
