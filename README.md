@@ -24,7 +24,7 @@ I also enjoy wireframing, Ui, Ux, and design in general, feel free to go through
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/2alifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/2alifa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oluwaseun-olubiyi-b8763b1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oluwaseun-olubiyi-b8763b1ba/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwaseun-olubiyi-b8763b1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oluwaseun-olubiyi-b8763b1ba/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
