@@ -10,11 +10,11 @@ I also enjoy wireframing, Ui, Ux, and design in general, feel free to go through
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwa-seun&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on my own company  **Gods-i**
+- 🔭 I’m currently building amazing products and design
 
-- 🌱 I’m currently learning **React, python**
+- 🌱 I’m currently learning **React, python and tyepscript**
 
-- 💬 Ask me about **Vue,Gsap**
+- 💬 Ask me about **Vue,javascript**,Gsap**
 
 - 📫 How to reach me **oluwaseunolubiyione@gmail.com**
 
