@@ -4,7 +4,7 @@
  Welcome to my Space-jam!
 
 I'm Oluwaseun a FrontEnd developer from nigeria, with a good knowledge of Design and Development.
-I enjoy learning languages and framework like Python, typescript, React, Swift and flutter, as well as work in linux.
+I enjoy learning languages and framework like Javascript, typescript, React and Vue.
 I also enjoy wireframing, Ui, Ux, and design in general, feel free to go through my projects, drop a star if you like like.Thank You!
 
 
@@ -12,13 +12,15 @@ I also enjoy wireframing, Ui, Ux, and design in general, feel free to go through
 
 - 🔭 I’m currently building amazing products and design
 
-- 🌱 I’m currently learning **React, python and tyepscript**
+- 🌱 I’m currently Relearning tyepscript**
 
-- 💬 Ask me about **Vue,javascript**,Gsap**
+- 💬 Ask me about **React,**Vue,javascript**,Gsap**
 
 - 📫 How to reach me **oluwaseunolubiyione@gmail.com**
 
 - ⚡ Fun fact **I love life on the edge**
+
+- You can also visit my portfolio (osportfo.web.ap)
 
 
 <h3 align="left">Connect with me:</h3>
